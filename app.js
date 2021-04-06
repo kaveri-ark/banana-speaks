@@ -1,0 +1,1 @@
+var textarea = document.querySelector('#text-input');
